@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "636854204607",
+    "project_id": "social-v1mrcp",
+    "storage_bucket": "social-v1mrcp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636854204607:android:699025474fbd490f332e0a",
+        "android_client_info": {
+          "package_name": "com.flutterflow.sniffsocial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6wgATJXsZC2PgafG9uaIAXlyTXTFfCW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
